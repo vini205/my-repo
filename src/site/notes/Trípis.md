@@ -2,11 +2,6 @@
 {"dg-publish":true,"permalink":"/tripis/","tags":["reino","gardenEntry"]}
 ---
 
-
-
-
-
-
  ![[Trípis.jpg  \| center ]]
 
 
