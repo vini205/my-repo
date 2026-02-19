@@ -9,4 +9,4 @@ Humano Guerreiro, tem poder de se transformar em qualquer objeto ou animal, desd
 Ele tem um amuleto de sorte.
 
 
-Sobre seu poder de [transmutação](Metamorfose).
+Sobre seu poder de [[Metamorfose\|Metamorfose]].
